@@ -1,0 +1,14 @@
+Sorte	Aussehen	Geschmack	Gesamteindruck	Reifezustand	Kaufen?
+Jonagold	7.7	7	7.1	5.3	6.1
+Summercrisp	7.4	7.1	7.1	4.8	6.2
+Allegro	6.7	6.2	6.3	4.5	4.9
+Klarapfel	5.2	4.9	5.2	5.6	3.4
+Juno	5.9	5.9	5.9	4.9	4.4
+Summerflame	7	5.9	6.2	5	4.7
+Goldparmäne	6.5	5.8	6	3.8	4.5
+Freya	7.7	7.1	6.9	4.8	6.1
+Santana	6.8	6.3	6.4	4.3	4.9
+BugaStar	7.9	6.7	6.9	4.8	5.7
+Kardinal Bea	5.9	5.6	5.4	4.1	3.9
+Konrad III	8	7.7	7.5	5.2	7
+
