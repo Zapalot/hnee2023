@@ -1,0 +1,5 @@
+	obstart	gewicht
+0	erbeere	10
+1	erbeere	15
+2	himbeere	15
+3	preiselbeere	4
