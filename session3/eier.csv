@@ -1,0 +1,13 @@
+beaobachtungsnummer	tag	stall	mischung	anzahl_sauber	anzahl_schmutzig	kommentar	messende person
+1	03.11.23	1	dinkel	5	3	war kalt heute	angela
+2	03.11.23	1	stroh	3	2		olaf
+3	03.11.23	1	sand	2	1		
+4	03.11.23	2	dinkel	3	2		
+5	03.11.23	2	stroh	4	1		
+6	03.11.23	2	sand	1	0		
+7	10.11.23	1	dinkel	6	3	war kalt heute	angela
+8	10.11.23	1	stroh	4	3		olaf
+9	10.11.23	1	sand	3	2		
+10	10.11.23	2	dinkel	4	3		
+11	10.11.23	2	stroh	5	2		
+12	10.11.23	2	sand	2	1		
