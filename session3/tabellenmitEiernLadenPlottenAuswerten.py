@@ -192,7 +192,7 @@ for index, row in eiersummen.iterrows():
 stallgruppen=experimentaldaten.groupby("stall")
 eiersummen=stallgruppen[["anzahl_sauber","anzahl_schmutzig"]].sum()
 import scipy.stats as stats #unser hypothesentest liegt in scipy.stats
-stats.fisher_exact(eiersummen)
+print(stats.fisher_exact(eiersummen))
 
 
 #########
